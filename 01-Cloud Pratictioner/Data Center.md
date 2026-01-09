@@ -1,0 +1,3 @@
+Um **data center** é uma instalação física projetada para abrigar sistemas de computação e componentes associados, como servidores, dispositivos de armazenamento, redes e infraestrutura elétrica e de refrigeração. Ele garante a operação contínua e segura dos recursos de TI, oferecendo alta disponibilidade, redundância e proteção contra falhas. Os data centers são essenciais para armazenar, processar e distribuir dados, podendo ser locais (on-premises) ou parte de provedores de nuvem, como a AWS, que utiliza data centers globais para oferecer serviços escaláveis e resilientes.
+
+Ref: [[Infraestrutura Global]]

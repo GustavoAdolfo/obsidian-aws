@@ -1,0 +1,1 @@
+A Nuvem AWS é um modelo de computação baseado na entrega sob demanda de recursos de TI (como servidores, armazenamento, banco de dados e aplicativos) via internet, com pagamento conforme o uso (pay-as-you-go). Isso elimina a necessidade de infraestrutura física própria e permite escalabilidade e flexibilidade imediatas.
