@@ -1,0 +1,3 @@
+Application Program Interface.
+Toda a comunicação entre cliente e AWS é realizada por meio de APIs. Cada recurso da AWS possui ao menos uma API correspondente para execução dos comandos necessários. Por exemplo, para criar um bucket no S3 pode-se usar o console AWS no navegador ou a interface de linha de comando para executar a API relacionada ao recurso S3.
+A aplicabilidade dessas APIs se extende à integração com as aplicações do cliente. Por exemplo, podemos criar uma função lambda (uma API é utilizada para isso) que utiliza a API do DynamoDB para criar uma tabela nova, modificar suas propriedades, etc. 
